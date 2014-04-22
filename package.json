@@ -1,0 +1,37 @@
+{
+    "name": "slush-amuiwidget",
+    "version": "1.0.0",
+    "description": "A slush generator for AMUI widget.",
+
+    "main": "slushfile.js",
+    "scripts": {
+        "test": "mocha -R spec"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/Minwe/slush-amuiwidget"
+    },
+    "keywords": [
+        "slushgenerator",
+        "AMUI",
+        "widget",
+        "mobile",
+        "less"
+    ],
+    "author": "Minwe <minwe@yunshipei.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/Minwe/slush-amuiwidget/issues"
+    },
+    "homepage": "https://github.com/Minwe/slush-amuiwidget",
+    "dependencies": {
+        "gulp": "~3.5.6",
+        "gulp-util": "latest",
+        "gulp-template": "~0.1.1",
+        "gulp-install": "~0.1.1",
+        "gulp-conflict": "~0.1.1",
+        "underscore.string": "~2.3.3",
+        "gulp-rename": "~1.2.0",
+        "inquirer": "~0.4.1"
+    }
+}
