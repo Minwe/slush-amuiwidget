@@ -11,11 +11,11 @@ Install `slush` globally:
 npm install -g slush
 ```
 
-Link `slush-amuiwidget`:
+Install slush-amuiwidget globally:
+
 
 ```bash
-cd tools/slush-amuiwidget
-npm link
+npm install -g slush-angular
 ```
 
 
