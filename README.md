@@ -1,7 +1,7 @@
-slush-amuiwidget
+Amaze UI Slush Genertator
 ==============
 
-> A [slush](http://klei.github.io/slush/) generator for AMUI widget.
+> A [slush](http://klei.github.io/slush/) generator for [Amaze UI Widget](http://amazeui.org/widgets).
 
 ## Installation
 
@@ -11,17 +11,15 @@ Install `slush` globally:
 npm install -g slush
 ```
 
-Install slush-amuiwidget globally:
-
+Install `slush-amuiwidget` globally:
 
 ```bash
-npm install -g slush-angular
+npm install -g slush-amuiwidget
 ```
-
 
 ## Usage
 
-CD to AMUI root dir, then:
+Run `slush amuiwidget` under Amaze UI root dir:
 
 ```bash
 slush amuiwidget
