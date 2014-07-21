@@ -1,7 +1,7 @@
 {
     "name": "slush-amuiwidget",
-    "version": "1.0.2",
-    "description": "A slush generator for Amaze UI widget.",
+    "version": "1.0.3",
+    "description": "A slush generator for <a href='http://amazeui.org'>Amaze UI</a> widget.",
 
     "main": "slushfile.js",
     "scripts": {

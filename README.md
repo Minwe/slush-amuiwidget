@@ -39,5 +39,5 @@ The widget structure will look like this ({widget} will be replaced with your wi
      ├── {widget}.less              # core style
      ├── {widget}.default.less      # default theme
      ├── {widget}.js                # widget interaction
-     ├── {widget}.png               # widget icon, 50px * 50px png file
+     └── {widget}.png               # widget icon, 50px * 50px png file
 ```
