@@ -1,8 +1,7 @@
 {
     "name": "slush-amuiwidget",
-    "version": "1.0.3",
-    "description": "A slush generator for <a href='http://amazeui.org'>Amaze UI</a> widget.",
-
+    "version": "1.0.5",
+    "description": "A slush generator for Amaze UI(http://amazeui.org) widget.",
     "main": "slushfile.js",
     "scripts": {
         "test": "mocha -R spec"

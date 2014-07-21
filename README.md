@@ -1,7 +1,7 @@
 Amaze UI Slush Genertator
 ==============
 
-> A [slush](http://klei.github.io/slush/) generator for [Amaze UI Widget](http://amazeui.org/widgets).
+A [slush](http://klei.github.io/slush/) generator for [Amaze UI Widget](http://amazeui.org/widgets).
 
 ## Installation
 
