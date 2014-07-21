@@ -1,4 +1,4 @@
-Amaze UI Slush Genertator
+Amaze UI Slush Generator
 ==============
 
 A [slush](http://klei.github.io/slush/) generator for [Amaze UI Widget](http://amazeui.org/widgets).
