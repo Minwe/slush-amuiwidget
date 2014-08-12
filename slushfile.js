@@ -35,10 +35,15 @@ gulp.task('default', function(done) {
                 name: "description",
                 message: "Widget description?",
                 default: '模块描述'
+            },
+            {
+                type: 'input',
+                name: "poweredBy",
+                message: "Powered by?",
+                default: 'Your Inc.'
             }
         ],
         function(answers) {
-
             answers.createDate = gutil.date(new Date(), 'yyyy.mm.dd');
             var widgetName = answers.widgetName.toLowerCase();
             answers.nameCapitalized = _.capitalize(widgetName);

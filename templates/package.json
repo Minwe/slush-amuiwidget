@@ -17,6 +17,8 @@
 
     "description": "<%= description %>",
 
+    "poweredBy": "<%= poweredBy %>",
+
     "styleBase": [
         "variables.less",
         "mixins.less",
@@ -66,7 +68,8 @@
     ],
 
     "jsBase": [
-        "core.js"
+        "core.js",
+        "util.fastclick.js"
     ],
 
     "jsDependencies": [],
